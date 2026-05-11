@@ -43,6 +43,19 @@ Claw Firmware is built for miners who want **maximum output without sacrificing 
 
 ---
 
+## 🧩 Supported Models
+
+Claw Firmware currently supports selected Antminer models, including:
+
+| Series | Supported Models |
+|--------|------------------|
+| S21 Hyd Series | S21 Hyd, S21+ Hyd, S21XP Hyd, S21e Hyd |
+| S19 Series | S19j Pro |
+
+More models may be added as firmware validation and tuning profiles are completed.
+
+---
+
 ## 🛠 Use Cases
 
 - High-performance mining farms  
