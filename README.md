@@ -50,7 +50,7 @@ Claw Firmware currently supports selected Antminer models, including:
 | Series | Supported Models |
 |--------|------------------|
 | S21 Hyd Series | S21 Hyd, S21+ Hyd, S21XP Hyd, S21e Hyd |
-| S19 Series | S19j Pro |
+| S19 Series | S19j Pro, S19XP Hyd |
 
 More models may be added as firmware validation and tuning profiles are completed.
 
